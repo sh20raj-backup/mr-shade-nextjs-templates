@@ -4,6 +4,14 @@ A curated collection of modern, responsive Next.js landing page templates built 
 
 ## 🚀 Available Templates
 
+| Template | URL |
+|---------|-----|
+| Blinder | https://floatui.com/templates/blinder |
+| Mailgo | https://floatui.com/templates/mailgo |
+| Split | https://floatui.com/templates/split |
+| EasyUI | https://www.easyui.pro/ |
+| HTMLRev | https://htmlrev.com/free-nextjs-templates.html |
+
 ### 1. Chef Kitchen Landing Page
 A beautiful restaurant and culinary-focused landing page template featuring:
 - Modern design with food-centric imagery
