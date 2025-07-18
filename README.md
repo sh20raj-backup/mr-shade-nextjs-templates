@@ -11,10 +11,6 @@ A beautiful restaurant and culinary-focused landing page template featuring:
 - Built with Next.js 14+ and TypeScript
 - Styled with Tailwind CSS
 
-
-
-
-
 **Quick Start:**
 ```bash
 npx gitpick https://github.com/mr-shade/nextjs-templates/tree/main/chef-kitchen-nextjs-landing-page-template
